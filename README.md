@@ -1,4 +1,4 @@
-Hi there 👋 I'm Salar!
+#Hi there 👋 I'm Salar!
 I’m a passionate tech enthusiast currently working at FocalX project manager. My journey in tech has led me to explore various programming languages and technologies, and I'm excited to share my projects and collaborate with others in the community.
 
 🔭 I’m currently working on [SPOT](https://github.com/SalarKo/SPOT) as part of my 5th-semester project in collaboration with a company called Netvaerk, focusing on creating AI models to scrape ads for contact information and automate outreach.
