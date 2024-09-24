@@ -1,4 +1,4 @@
-# **Hi there 👋 I'm Salar!**  
+## **Hi there 👋 I'm Salar!**  
 I’m a passionate tech enthusiast currently working at FocalX as a project manager. My journey in tech has led me to explore various programming languages and technologies, and I'm excited to share my projects and collaborate with others in the community.
 
 **🔭 Current Project:**  
