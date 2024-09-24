@@ -7,7 +7,7 @@ I’m currently working on [SPOT](https://github.com/SalarKo/SPOT) as part of my
 **🌱 Learning:**  
 I’m learning web development with PHP, HTML, CSS, and JavaScript, so keep an eye out for upcoming repositories showcasing my progress!
 
-**🎓 Education:**  
+**🚀 Skill Enhancement:**  
 I’m also pursuing a certification in Azure Data Fundamentals to enhance my skills in cloud data management.
 
 **🛠️ Technical Skills:**  
