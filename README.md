@@ -10,12 +10,6 @@ I’m learning web development with PHP, HTML, CSS, and JavaScript, so keep an e
 **🎓 Education:**  
 I’m also pursuing a certification in Azure Data Fundamentals to enhance my skills in cloud data management.
 
-**👯 Collaboration Opportunities:**  
-I’m looking to collaborate on data analyst-type projects where I can analyze large data models and contribute to insightful decision-making.
-
-**🤔 Seeking Help:**  
-I’m seeking help with C# to enhance my programming skills and expand my knowledge base.
-
 **🛠️ Technical Skills:**  
 - Python  
 - Java  
@@ -24,6 +18,6 @@ I’m seeking help with C# to enhance my programming skills and expand my knowle
 - REST API  
 - MySQL  
 
-Feel free to connect with me, I’m always eager to learn from others and share knowledge!
+Feel free to connect with me, I’m always eager to learn from others and share knowledge!😄
 
 
